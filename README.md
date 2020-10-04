@@ -3,7 +3,7 @@
 Why, hello there! This repo is to hold my configuration files for Team Fortress 2. 
 
 
-### 😺 About This Config
+## 😺 About This Config
 
 I've played TF2 since 2008 and recently got back into the game after a decade and was desperate for my old binds.
 
@@ -11,7 +11,7 @@ This is a tailored config based for me as most user's who create one would. Howe
 
 
 
-### 🐱‍👓 What's special about your config?
+## 🐱‍👓 What's special about your config?
 
 Absolutely nothing.
 
@@ -19,13 +19,12 @@ That's right, I said it. Config files should be preference to you but it's alrig
 
 
 
-### 🐱‍💻 How to Install
-
+## 🐱‍💻 How to Install
 *Please back up any and all custom configs you may have installed. I'm not responsible for any lost settings.*
 
 
 
-  #### Installing with mastercomfig
+  ### Installing with mastercomfig
   I use mastercomfig's High Settings
   (*mastercomfig's settings can be found here: https://mastercomfig.com/*)
 
@@ -39,8 +38,7 @@ That's right, I said it. Config files should be preference to you but it's alrig
 
 
 
-  #### Installing without mastercomfig
-
+  ### Installing without mastercomfig
   1. Maybe you're just testing waters, that's fine! To install as you would with any config file place all contents in:
 
   ```
