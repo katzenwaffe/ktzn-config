@@ -25,7 +25,7 @@ That's right, I said it. Config files should be preference to you but it's alrig
 
 
 
-  ##### Installing with mastercomfig
+  #### Installing with mastercomfig
   I use mastercomfig's High Settings
   *mastercomfig's settings can be found here: https://mastercomfig.com/*
 
@@ -39,7 +39,7 @@ That's right, I said it. Config files should be preference to you but it's alrig
 
 
 
-  ##### Installing without mastercomfig
+  #### Installing without mastercomfig
 
   1. Maybe you're just testing waters, that's fine! To install as you would with any config file place all contents in:
 
