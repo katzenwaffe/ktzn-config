@@ -27,7 +27,7 @@ That's right, I said it. Config files should be preference to you but it's alrig
 
   #### Installing with mastercomfig
   I use mastercomfig's High Settings
-  *mastercomfig's settings can be found here: https://mastercomfig.com/*
+  (*mastercomfig's settings can be found here: https://mastercomfig.com/*)
 
   1. Place all contents within this package to:
 
