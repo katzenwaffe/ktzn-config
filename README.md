@@ -1,6 +1,6 @@
-# ktzn-config
+# ktzn-config [![GitHub release](https://img.shields.io/badge/Version-1.0.0-success)](https://github.com/katzenwaffe/ktzn-config/releases)
 
-Why, hello there! This repo is to hold my configuration files for Team Fortress 2. 
+Why, hello there! This repo is to hold my configuration files for Team Fortress 2.
 
 
 ## 😺 About This Config
